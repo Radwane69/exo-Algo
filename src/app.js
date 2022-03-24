@@ -6,7 +6,7 @@ import {
 } from 'uuid';
 
 
-let hobbies = [Cinéma, Musique, Photographie, Série, voyage, cuisine, randonnée, lecture, jeux - vidéo, foot]
+let hobbies = [Cinéma, Musique, Photographie, Série, voyage, cuisine, randonnée, lecture, jeuxvidéo, foot]
 let user = [];
 for (let i = 0; i < 1000; i++) {
     let id = uuidv4();
